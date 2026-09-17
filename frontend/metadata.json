@@ -1,0 +1,6 @@
+{
+  "name": "Community Climate Platform",
+  "description": "An AI-integrated community climate change and reduction platform connecting individual verified actions to collective environmental impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
